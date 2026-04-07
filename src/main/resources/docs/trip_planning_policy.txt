@@ -1,0 +1,43 @@
+Section: Travel Booking Policy
+
+Employees must book travel tickets at least 7 days in advance.
+
+All bookings (flight/train) should be made through the company-approved travel portal.
+
+Last-minute bookings require manager approval.
+
+
+Section: Accommodation Policy
+
+Employees are eligible for hotel stays up to ₹4,000 per night.
+
+Only standard business hotels are allowed.
+
+Luxury hotels are not permitted unless approved by senior management.
+
+
+Section: Daily Allowance Policy
+
+Employees will receive a daily allowance of ₹1,000 for food and local travel.
+
+Bills are not required for daily allowance claims.
+
+Allowance is applicable only for official travel days.
+
+
+Section: Local Transport Policy
+
+Employees can use cabs or public transport for official work.
+
+Ride-sharing services like Ola and Uber are allowed.
+
+Personal vehicle usage will be reimbursed at ₹10 per km.
+
+
+Section: Travel Reimbursement Policy
+
+All travel expenses must be submitted within 10 days after trip completion.
+
+Original bills are required for reimbursement (except daily allowance).
+
+Reimbursement will be processed within 7 working days.

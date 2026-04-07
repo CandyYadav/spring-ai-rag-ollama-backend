@@ -1,0 +1,36 @@
+Section: Annual Leave Policy
+
+Every employee is entitled to 18 paid leaves per calendar year.
+
+Unused leaves cannot be carried forward to the next year.
+
+Leave approval is subject to project requirements and manager approval.
+
+
+Section: Work From Home (WFH) Policy
+
+Employees are allowed to work from home up to 3 days per week.
+
+Work From Home is not permitted during the probation period.
+
+WFH requests must be pre-approved by the reporting manager.
+
+
+Section: Laptop Allocation Policy
+
+The company provides official laptops based on role:
+
+Developers are provided with MacBook Pro 14-inch systems.
+
+QA Team Members are provided with Dell Latitude laptops.
+
+All devices are company property and must be returned upon exit.
+
+
+Section: Health Insurance Policy
+
+Each employee is covered under a Health Insurance Policy of ₹8 lakh per year.
+
+Insurance coverage is applicable only to the employee.
+
+Parents are not included in the insurance coverage.
